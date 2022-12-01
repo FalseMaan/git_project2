@@ -3,5 +3,9 @@ def main_function():
     print('And I change it every day')
 
 
+def second_function():
+    print('aaafffsss')
+
+
 if __name__ == '__main__':
     main_function()
